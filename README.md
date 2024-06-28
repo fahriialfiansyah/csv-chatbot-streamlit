@@ -1,4 +1,4 @@
-# Streamlit-based Multiple CSV Chatbot Using Llama3:8B
+# Streamlit-based Multiple CSV Chatbot Using Llama 3 8B
 
 ![](https://i.imgur.com/zXue9mG.png)
 
