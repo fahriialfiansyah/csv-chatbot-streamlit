@@ -1,4 +1,4 @@
-# Streamlit-based CSV Chatbot using LLM
+# Streamlit-based Multiple CSV Chatbot Using Llama3:8B
 
 ![](https://i.imgur.com/zXue9mG.png)
 
@@ -20,7 +20,7 @@ $ poetry install
 $ poetry shell
 ```
 4. Download Ollama from https://ollama.com and follow their installation instructions.
-5. Open terminal to install LLM:
+5. Open terminal to install particular LLM:
 ```shell
 $ ollama pull llama3:latest
 ```
